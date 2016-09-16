@@ -15,6 +15,42 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.ExampleMainActivity"
+            android:label="@string/scrollable_tab" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.ScrollableTabExampleActivity"
+            android:label="@string/scrollable_tab" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.FixedTabExampleActivity"
+            android:label="@string/fixed_tab" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.DynamicTabExampleActivity"
+            android:label="@string/dynamic_tab" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.NoTabOnlyIndicatorExampleActivity"
+            android:label="@string/no_tab_only_indicator" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.FragmentContainerExampleActivity"
+            android:label="@string/work_with_fragment_container" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.BadgeTabExampleActivity"
+            android:label="@string/tab_with_badge_view" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.CustomNavigatorExampleActivity"
+            android:label="@string/custom_navigator" />
+
+        <activity
+            android:name=".TabViewIndicatorExample.example.LoadCustomLayoutExampleActivity"
+            android:label="@string/tab_with_custom_layout" />
     </application>
 
 </manifest>
