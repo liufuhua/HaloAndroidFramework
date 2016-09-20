@@ -26,4 +26,5 @@ dependencies {
     compile project(':Volley')
     compile project(':viewpagerindicator')
     compile project(':uiview')
+    compile project(':upyun-android-sdk')
 }
