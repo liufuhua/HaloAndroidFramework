@@ -1,1 +1,1 @@
-include ':app', ':Volley', ':viewpagerindicator'
+include ':app', ':Volley', ':viewpagerindicator', ':uiview'

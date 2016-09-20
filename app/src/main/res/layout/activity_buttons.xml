@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:uiview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    >
+    <com.halo.uiview.materialDesign.views.ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <!-- FLAT BUTTON -->
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:layout_marginLeft="24dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Flat Button" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#1E88E5" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="72dp" >
+
+                <com.halo.uiview.materialDesign.views.ButtonFlat
+                    android:id="@+id/buttonflat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:textColor="#ffffff"
+                    android:text="Button" />
+            </RelativeLayout>
+            <!-- RECTANGLE BUTTON -->
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:layout_marginLeft="24dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Rectangle Button" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#1E88E5" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="72dp" >
+
+                <com.halo.uiview.materialDesign.views.ButtonRectangle
+                    android:id="@+id/button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="#1E88E5"
+                    android:text="Button" />
+            </RelativeLayout>
+            <!-- SMALL FLOAT BUTTON -->
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:layout_marginLeft="24dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Small Float Button" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#1E88E5" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="72dp" >
+
+                <com.halo.uiview.materialDesign.views.ButtonFloatSmall
+                    android:id="@+id/buttonFloatSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="#1E88E5"
+                    uiview:iconDrawable="@drawable/ic_action_new" />
+            </RelativeLayout>
+
+            <!-- FLOAT BUTTON -->
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:layout_marginLeft="24dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Icon Button" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#1E88E5" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="72dp" >
+
+                <com.halo.uiview.materialDesign.views.ButtonIcon
+                    android:id="@+id/buttonIcon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="#1E88E5"
+                    uiview:iconDrawable="@drawable/ic_next" />
+            </RelativeLayout>
+
+            <!-- FLOAT BUTTON -->
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:layout_marginLeft="24dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Float Button" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#1E88E5" />
+            </RelativeLayout>
+        </LinearLayout>
+    </com.halo.uiview.materialDesign.views.ScrollView>
+    <com.halo.uiview.materialDesign.views.ButtonFloat
+                android:id="@+id/buttonFloat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="24dp"
+                android:background="#1E88E5"
+                uiview:animate="true"
+                uiview:iconDrawable="@drawable/ic_action_new" />
+
+</RelativeLayout>
