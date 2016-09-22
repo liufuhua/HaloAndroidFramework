@@ -1,1 +1,1 @@
-include ':app', ':Volley', ':viewpagerindicator', ':uiview',':upyun-android-sdk'
+include ':app', ':Volley', ':viewpagerindicator', ':uiview', ':upyun-android-sdk', ':commons'
