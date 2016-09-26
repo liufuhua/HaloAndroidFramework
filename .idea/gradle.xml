@@ -5,17 +5,15 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-<<<<<<< HEAD
         <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
-=======
->>>>>>> 7ebabc18140efb1dbe9dd18544c53b3dfd9ca42e
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Volley" />
             <option value="$PROJECT_DIR$/app" />
-<<<<<<< HEAD
-            <option value="$PROJECT_DIR$/commons" />
+            <option value="$PROJECT_DIR$/commonandroidtools" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/jackson-databind" />
             <option value="$PROJECT_DIR$/uiview" />
             <option value="$PROJECT_DIR$/upyun-android-sdk" />
             <option value="$PROJECT_DIR$/viewpagerindicator" />
@@ -26,21 +24,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Volley" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/commons" />
-=======
             <option value="$PROJECT_DIR$/commonandroidtools" />
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/jackson-databind" />
->>>>>>> 7ebabc18140efb1dbe9dd18544c53b3dfd9ca42e
             <option value="$PROJECT_DIR$/uiview" />
             <option value="$PROJECT_DIR$/upyun-android-sdk" />
             <option value="$PROJECT_DIR$/viewpagerindicator" />
           </set>
         </option>
-<<<<<<< HEAD
-=======
-        <option name="resolveModulePerSourceSet" value="false" />
->>>>>>> 7ebabc18140efb1dbe9dd18544c53b3dfd9ca42e
       </GradleProjectSettings>
     </option>
   </component>
