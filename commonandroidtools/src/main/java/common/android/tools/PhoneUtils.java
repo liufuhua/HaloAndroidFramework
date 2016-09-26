@@ -20,8 +20,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-import hollo.hgt.https.HttpHost;
-import lib.framework.hollo.network.BaseJsonRequest;
 
 /**
  * Created by orson on 16/3/10.
@@ -290,12 +288,6 @@ public class PhoneUtils {
         return false;
     }
 
-    public static void changeHost(String newHost){
-        if(newHost != null && (newHost.equals(HttpHost.DEV_HOST) || newHost.equals(HttpHost.RELEASE_HOST))){
-            HttpHost.HOST = newHost;
-            BaseJsonRequest.changeHost(newHost);
-        }
-    }
 
     /**
      * 调用电话功能

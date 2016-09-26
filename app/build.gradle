@@ -27,4 +27,7 @@ dependencies {
     compile project(':viewpagerindicator')
     compile project(':uiview')
     compile project(':upyun-android-sdk')
+    compile project(':eventbus')
+    compile project(':commonandroidtools')
+    compile project(':jackson-databind')
 }

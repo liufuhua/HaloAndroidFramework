@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/commonandroidtools" />
             <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/jackson-databind" />
             <option value="$PROJECT_DIR$/uiview" />
             <option value="$PROJECT_DIR$/upyun-android-sdk" />
             <option value="$PROJECT_DIR$/viewpagerindicator" />

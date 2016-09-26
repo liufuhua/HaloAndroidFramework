@@ -1,1 +1,1 @@
-include ':app', ':Volley', ':viewpagerindicator', ':uiview', ':upyun-android-sdk', ':eventbus', ':commonandroidtools'
+include ':app', ':Volley', ':viewpagerindicator', ':uiview', ':upyun-android-sdk', ':eventbus', ':commonandroidtools', ':jackson-databind'
