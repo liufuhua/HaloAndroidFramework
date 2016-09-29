@@ -28,6 +28,6 @@ dependencies {
     compile project(':uiview')
     compile project(':upyun-android-sdk')
     compile project(':eventbus')
-    compile project(':commonandroidtools')
+    compile project(':common-android-tools')
     compile project(':jackson-databind')
 }
