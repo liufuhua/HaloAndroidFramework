@@ -1,0 +1,13 @@
+ext{
+    android = [
+            compileSdkVersion:24,
+            buildToolsVersion:"24.0.1",
+            minSdkVersion:15,
+            targetSdkVersion:24
+    ]
+    dependencies = [
+            "appcompat-v7":"com.android.support:appcompat-v7:24.2.0",
+            "recyclerview-v7":"com.android.support:recyclerview-v7:24.2.0",
+            "okhttp":"com.squareup.okhttp3:okhttp:3.2.0"
+    ]
+}
