@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.halo.haloandroidframework.TabViewIndicatorExample.example.ExampleMainActivity;
+import com.halo.haloandroidframework.expandLayout.ExpandLayoutActivity;
 import com.halo.haloandroidframework.materialDesign.MaterialDesignMainActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -25,6 +26,9 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.tab_material_design:
                 startActivity(new Intent(this, MaterialDesignMainActivity.class));
+                break;
+            case R.id.tab_expandlayout:
+                startActivity(new Intent(this, ExpandLayoutActivity.class));
                 break;
             default:
                 break;
