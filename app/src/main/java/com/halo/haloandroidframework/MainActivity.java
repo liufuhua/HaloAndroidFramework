@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import com.halo.haloandroidframework.BaiduMapExample.BaiduSdkActivity;
 import com.halo.haloandroidframework.TabViewIndicatorExample.example.ExampleMainActivity;
 import com.halo.haloandroidframework.expandLayout.ExpandLayoutActivity;
 import com.halo.haloandroidframework.materialDesign.MaterialDesignMainActivity;
@@ -29,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.tab_expandlayout:
                 startActivity(new Intent(this, ExpandLayoutActivity.class));
+                break;
+            case R.id.tab_baidu:
+                startActivity(new Intent(this, BaiduSdkActivity.class));
                 break;
             default:
                 break;

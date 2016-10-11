@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Volley" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidusdk" />
             <option value="$PROJECT_DIR$/common-android-tools" />
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/jackson-databind" />

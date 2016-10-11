@@ -79,6 +79,8 @@
         </activity>
 
         <activity android:name=".expandLayout.ExpandLayoutActivity"/>
+
+        <activity android:name=".BaiduMapExample.BaiduSdkActivity"/>
     </application>
 
 </manifest>

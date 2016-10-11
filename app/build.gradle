@@ -30,4 +30,5 @@ dependencies {
     compile project(':eventbus')
     compile project(':common-android-tools')
     compile project(':jackson-databind')
+    compile project(':baidusdk')
 }

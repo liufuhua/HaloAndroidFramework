@@ -3,21 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_66a5dcda112f5968ad59c506008ea1d0fb9bef9e.jar" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6d4a31c56c94118e55bde3f9d6176f3285956048.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_a49e33cf06f05e56139730caf3351f8101827163.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_9d2da0c26026e64a11632f69d55ead6f929b2a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_search_v4_0_0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d00f6ec8bfc2824df5e1b4181be80e24f3799637">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/baidumapapi_search_v4_0_0_d5d3649fb1b8599cf067d682f214b85a13bc4ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7fd1eda94db0626de6775e0e866dbc5f2c7efb65.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,15 +48,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b1cd57766413d7bd55e195409dfc2e34159b94ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -48,21 +57,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_map_v4_0_0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_26fff62f275e1e182bea0711bc9022c7d94e2768.jar" />
+        sha1="9d5ec2305e45107f85d93b59cfb8ccd962be6d93">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/baidumapapi_map_v4_0_0_ed9f5bea755b9f5d5543ff9bfe515763490d919b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_base_v4_0_0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_7a4c01bf27bc31e2eaa93588bd9c253ae361ad8f.jar" />
+        sha1="8f5d802ae606dec3ab72ed0f15f732afb444705e">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/baidumapapi_base_v4_0_0_bf4b7055dd43989996562d9501c664cb913add58.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,12 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_40d29050b4312f994cc89b047f521e67653fbfa7.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_54e0c61d0dcf1d45d562aa3be5593a4d085dff71.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,15 +102,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_913dcc3f272bd998408bf0874d321ebe2433ef96.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/common-android-tools/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -111,11 +111,20 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_cloud_v4_0_0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d70432ca2a2414ecb4edbad44313ccb26886c0a6">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/baidumapapi_cloud_v4_0_0_2aa9765bcc8074baf4641c8d301d52752e15373d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/jackson-databind/build/libs/jackson-databind.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="a5674565a484b7f8c4b65932eb4658d05c652216">
+        sha1="09cb215bab0c67d0fa77b2bbd803ab003aebc994">
         <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/jackson-databind_b5caad3450c0d1c0912775490ad7e63b92464225.jar" />
     </item>
     <item
@@ -129,21 +138,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_35c36161f6f86c66250af34d910180ac9d26fa98.jar" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d667846af11a9557f8d44727d6c55c84259dd991.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ce794b969ce942e7d8852b3460a944cb4b8120ca.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f18b779eec8ed95b9c16ee8c351454e058381260.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,21 +165,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_radar_v4_0_0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_c7a1f8094c2ae7a57f3284c7d1e4fbbc75ce6c82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_f2431a933afdfdc5c1397d78d6d86cac75d33b8c.jar" />
+        sha1="7fef5bef60bbcede2d08f65c5b2f4720eda81cdf">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/baidumapapi_radar_v4_0_0_de209495bf55aaf242043700d969e602026b828c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,6 +183,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_bfa653a3d5b768314e0e7502235a8816994e5de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/viewpagerindicator/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -192,21 +201,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_e9b7783fe79f4f61a89027a9543803748fcdc73f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9a41fe67623e2cacec7c34170a7acff153e4f585.jar" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c553eb822eb7ed883486b203e52674beb5f9c989.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,12 +219,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cd015d600ffe5dd24c40c51634c109fe475bb8d4.jar" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_46b22d21d412973f16e3d855f088ad7e58edf6b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_util_v4_0_0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4fad0d4e23dd4ef917f8ad702bb2bc891b1f6b5d">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/baidumapapi_util_v4_0_0_b41c8724648a236ef4262e7db5d09e828466a8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_2a0abc9657b9c8781f2d6faa4816b1d4dfbf1e26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_6259dc01607067e3837234bb43da3f7d2b8ca449.jar" />
     </item>
     <item
         is-multidex="false"
@@ -237,12 +264,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_b49ea566a5837749a78aa04f8d31ccdaf1150be6.jar" />
+        sha1="cc8fdd100f636f6a675d6ddadc91d0d9f5500073">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/HaloAndroidFramework-baidusdk-unspecified_c5d3b0f9025f5e0c5554d1f193ce4b6f8682bc73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9037b8336fc110378ca2e23d7ab22f724212af12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f3625b05293ddeb01155f72b65462749e1524ec9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -252,6 +297,33 @@
         revision="24.0.1"
         sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
         <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_f7573eb26f853215fa65f5fa90856fa37edd68f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fc2ef3e9d9f7d7a712725ae51fdd5b989e0c0876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6502024ca023164c45663f31a165bc7924cb75f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="38524b6ba51f9cab6674cc3d6d743164b9bdb4c0">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/locSDK_6.13_3bdc1bdbb8c7914ebce84e148a596bea36071a74.jar" />
     </item>
 
 </items>
