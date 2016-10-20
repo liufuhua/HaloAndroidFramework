@@ -6,3 +6,6 @@ https://github.com/square/retrofit
 《给 Android 开发者的 RxJava 详解》http://gank.io/post/560e15be2dca930e00da1083
 《How To Use RxJava》https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava
 《RxJava+Retrofit框架Demo（一）》http://www.jianshu.com/p/2b0aeb6b6b61
+
+接下来要做的事儿：
+1 完善Retrofit+AxJava的网络层架构，比如包头封装等等
