@@ -9,6 +9,7 @@ import com.halo.haloandroidframework.BaiduMapExample.BaiduSdkActivity;
 import com.halo.haloandroidframework.TabViewIndicatorExample.example.ExampleMainActivity;
 import com.halo.haloandroidframework.expandLayout.ExpandLayoutActivity;
 import com.halo.haloandroidframework.materialDesign.MaterialDesignMainActivity;
+import com.halo.haloandroidframework.retrofitSamples.activity.RetrofitActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.tab_baidu:
                 startActivity(new Intent(this, BaiduSdkActivity.class));
+                break;
+            case R.id.tab_retrofit:
+                startActivity(new Intent(this, RetrofitActivity.class));
                 break;
             default:
                 break;

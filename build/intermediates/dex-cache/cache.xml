@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_0aa1ccc42b74c550224240116058826330e73962.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/uiview/unspecified/jars/libs/universal-image-loader-1.9.3.jar"
         jumboMode="false"
         optimize="true"
@@ -75,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/okio-1.8.0_56cacc607e4eadda694f58950f7c07891683fc18.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/common-android-tools/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -111,15 +129,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/okio-1.6.0_2898b8a7ec5aff4e06a7388cfabb3b5c31a9425f.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -129,30 +138,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_40540b4cc857f65119a16c2eb30a94086025428c.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
         <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_e9b7783fe79f4f61a89027a9543803748fcdc73f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/Volley/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="bdfabd1dddd120e51a45cc1e18fc1b9b4a35ca65">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/HaloAndroidFramework-Volley-unspecified_99b66f2ba173577bb07deec6968da10ded526847.jar" />
     </item>
     <item
         is-multidex="false"
@@ -171,6 +162,15 @@
         revision="24.0.1"
         sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
         <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_f7573eb26f853215fa65f5fa90856fa37edd68f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_5f7f73b91d7dbaa1fd0b221d2e9a63c5e2e04147.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,21 +201,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_13f191be181e70dbf1f9580269ed7e4f5b4c05d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/eventbus/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="243fc63a74b976469e6a690ab8e8487fcd42c193">
         <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/HaloAndroidFramework-eventbus-unspecified_69c75fb5e302164e4fa831ed88b61524f517c110.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/Volley/unspecified/jars/libs/gson-2.2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="33d21b33f4723e66a6c10882b866b93d1e89e4ba">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/gson-2.2.4_c8ff50ec4429e789225ceb3b825f2adb80dc7522.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,6 +228,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/gson-2.7_069c09aa6d2688eec23a84c0830e1baaad31957c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/baidumapapi_cloud_v4_0_0.jar"
         jumboMode="false"
         optimize="true"
@@ -237,12 +246,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Frank1/GitHub/HaloAndroidFramework/jackson-databind/build/libs/jackson-databind.jar"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="09cb215bab0c67d0fa77b2bbd803ab003aebc994">
-        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/jackson-databind_b5caad3450c0d1c0912775490ad7e63b92464225.jar" />
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_51ee02bbfefce0e9a095dc37e66e126179b25064.jar" />
     </item>
     <item
         is-multidex="false"
@@ -318,12 +327,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/rxjava-1.2.0_fbc80275f3a2c205f9aa60fbd0670484198442d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/HaloAndroidFramework/baidusdk/unspecified/jars/libs/locSDK_6.13.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="38524b6ba51f9cab6674cc3d6d743164b9bdb4c0">
         <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/locSDK_6.13_3bdc1bdbb8c7914ebce84e148a596bea36071a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.0_4ec1c87e65fb3b83ccc5a2447304ca0c4bea8efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Frank1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/Frank1/GitHub/HaloAndroidFramework/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_b44f62e177fd7135ce6c2a11bbab5cd065149dd1.jar" />
     </item>
 
 </items>
