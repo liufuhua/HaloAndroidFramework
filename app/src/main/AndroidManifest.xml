@@ -80,11 +80,17 @@
             android:screenOrientation="portrait" >
         </activity>
 
-        <activity android:name=".retrofitSamples.activity.RetrofitActivity"/>
+        <activity android:name=".retrofitSamples.activity.RetrofitActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".rxJava.RxJavaActivity"
+            android:screenOrientation="portrait"/>
 
         <activity android:name=".expandLayout.ExpandLayoutActivity"/>
 
         <activity android:name=".BaiduMapExample.BaiduSdkActivity"/>
+
+        <activity android:name=".Badge.BadgeActivity"/>
 
     </application>
 

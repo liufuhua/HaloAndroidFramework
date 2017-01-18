@@ -8,4 +8,4 @@ https://github.com/square/retrofit
 《RxJava+Retrofit框架Demo（一）》http://www.jianshu.com/p/2b0aeb6b6b61
 
 接下来要做的事儿：
-1 完善Retrofit+AxJava的网络层架构，比如包头封装等等
+1 完善Retrofit+RxJava的网络层架构，比如包头封装等等

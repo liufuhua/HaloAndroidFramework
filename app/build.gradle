@@ -23,6 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile "junit:junit:$rootProject.junitVersion"
     compile "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
+    compile "com.android.support:design:$rootProject.supportLibraryVersion"
 //    compile project(':Volley')
     compile project(':viewpagerindicator')
     compile project(':uiview')
@@ -31,8 +32,8 @@ dependencies {
     compile project(':common-android-tools')
     compile project(':baidusdk')
 
-    compile 'com.squareup.retrofit2:retrofit:2.1.0'
     compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
     compile 'com.squareup.retrofit2:converter-gson:2.1.0'
     compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
     compile 'io.reactivex:rxjava:1.2.0'
