@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.1"
+    compileSdkVersion rootProject.ext.android['compileSdkVersion']
+    buildToolsVersion rootProject.ext.android['buildToolsVersion']
 
     defaultConfig {
         applicationId "com.halo.haloandroidframework"
-        minSdkVersion 15
-        targetSdkVersion 24
-        versionCode 1
-        versionName "1.0"
+        minSdkVersion rootProject.ext.android['minSdkVersion']
+        targetSdkVersion rootProject.ext.android['targetSdkVersion']
+        versionCode rootProject.ext.android['versionCode']
+        versionName rootProject.ext.android['versionName']
     }
     buildTypes {
         release {
@@ -21,16 +21,15 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile "junit:junit:$rootProject.junitVersion"
-    compile "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
-    compile "com.android.support:design:$rootProject.supportLibraryVersion"
-//    compile project(':Volley')
+    compile rootProject.ext.dependencies['appcompat-v7']
+    compile rootProject.ext.dependencies['design']
     compile project(':viewpagerindicator')
     compile project(':uiview')
     compile project(':upyun-android-sdk')
     compile project(':eventbus')
     compile project(':common-android-tools')
     compile project(':baidusdk')
+    compile project(':umeng-sns-share')
 
     compile 'com.jakewharton:butterknife:7.0.1'
     compile 'com.squareup.retrofit2:retrofit:2.1.0'

@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/common-android-tools" />
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/uiview" />
+            <option value="$PROJECT_DIR$/umeng-sns-share" />
             <option value="$PROJECT_DIR$/upyun-android-sdk" />
             <option value="$PROJECT_DIR$/viewpagerindicator" />
           </set>

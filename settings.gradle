@@ -1,1 +1,1 @@
-include ':app', ':Volley', ':viewpagerindicator', ':uiview', ':upyun-android-sdk', ':eventbus', ':common-android-tools', ':baidusdk'
+include ':app', ':Volley', ':viewpagerindicator', ':uiview', ':upyun-android-sdk', ':eventbus', ':common-android-tools', ':baidusdk', ':umeng-sns-share'
